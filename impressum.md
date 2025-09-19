@@ -28,9 +28,14 @@ Für die Richtigkeit, Vollständigkeit und Aktualität übernehme ich jedoch kei
 Alle Texte und Bilder dieser Seite sind urheberrechtlich geschützt.  
 Die Vervielfältigung, Bearbeitung oder Verbreitung ist nur mit vorheriger Zustimmung erlaubt.
 
+
 ---
 
-© 2025 Nina Neuhoff
-
-[LinkedIn](http://www.linkedin.com/in/nina-neuhoff-32b162283) | 
-[ProZ](https://www.proz.com/translator/4180778)
+<footer class="footer">
+<p>&copy; 2025 Nina Neuhoff</p>
+<p>
+<a href="http://www.linkedin.com/in/nina-neuhoff-32b162283" target="_blank">LinkedIn</a> |
+<a href="https://www.proz.com/translator/4180778" target="_blank">ProZ</a> |
+<a href="/">Startseite</a>
+</p>
+</footer>

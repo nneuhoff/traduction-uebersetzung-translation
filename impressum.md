@@ -35,7 +35,6 @@ Die Vervielfältigung, Bearbeitung oder Verbreitung ist nur mit vorheriger Zusti
 <p>&copy; 2025 Nina Neuhoff</p>
 <p>
 <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283" target="_blank">LinkedIn</a> |
-<a href="https://www.proz.com/translator/4180778" target="_blank">ProZ</a> |
-<a href="/">Startseite</a>
+<a href="https://www.proz.com/translator/4180778" target="_blank">ProZ</a>
 </p>
 </footer>

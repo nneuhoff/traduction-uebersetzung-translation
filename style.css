@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #f2f2f2;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    margin-right: 20px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.language a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+footer {
+    background: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+}

@@ -31,4 +31,3 @@ Die Vervielfältigung, Bearbeitung oder Verbreitung ist nur mit vorheriger Zusti
 ---
 
 [Zur Startseite](README.md)
-

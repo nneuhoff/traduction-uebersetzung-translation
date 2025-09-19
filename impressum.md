@@ -30,4 +30,7 @@ Die Vervielfältigung, Bearbeitung oder Verbreitung ist nur mit vorheriger Zusti
 
 ---
 
-[Zur Startseite](README.md)
+© 2025 Nina Neuhoff
+
+[LinkedIn](http://www.linkedin.com/in/nina-neuhoff-32b162283) | 
+[ProZ](https://www.proz.com/translator/4180778)

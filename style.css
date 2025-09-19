@@ -45,3 +45,6 @@ footer {
     text-align: center;
     padding: 10px;
 }
+.site-footer .site-title {
+    display: none;
+}

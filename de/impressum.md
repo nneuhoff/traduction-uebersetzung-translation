@@ -3,10 +3,10 @@ layout: page
 title: "Impressum"
 ---
 
-**Angaben gemäß § 5 TMG**
+**Angaben gemäß französischem Recht (LCEN).**
 
 Nina Neuhoff  
-Übersetzerin & Redakteurin (freiberuflich)  
+Übersetzerin & Copywriterin (freiberuflich)  
 29200 Brest
 
 **SIRET:** 989 971 551 000019

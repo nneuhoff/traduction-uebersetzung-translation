@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "legal notice"
+layout: default
+title: Legal Notice
 ---
 
 **According to French law (LCEN).**

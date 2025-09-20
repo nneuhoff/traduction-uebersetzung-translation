@@ -1,12 +1,47 @@
----
-layout: default
-title: Startseite (DE)
----
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Übersetzungsservice Nina Neuhoff</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Startseite</a></li>
+                <li><a href="about.html">Über mich</a></li>
+                <li><a href="services.html">Leistungen</a></li>
+                <li><a href="prices.html">Preise</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+            </ul>
+            <div class="language">
+                <a href="index.html">DE</a> |
+                <a href="index-en.html">EN</a> |
+                <a href="index-fr.html">FR</a>
+            </div>
+        </nav>
+    </header>
 
-<p style="text-align:right; margin-top:-10px;">
-  <a href="https://nneuhoff.github.io/traduction-uebersetzung-translation/de/">DE</a> |
-  <a href="https://nneuhoff.github.io/traduction-uebersetzung-translation/en/">EN</a> |
-  <a href="https://nneuhoff.github.io/traduction-uebersetzung-translation/fr/">FR</a>
-</p>
+    <main>
+        <h1>Übersetzungsservice Nina Neuhoff</h1>
+        <img src="profil.jpg" alt="Profilbild" style="width:200px;border-radius:50%;">
+        <p>Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch</p>
+        
+        <p>Sprachrichtungen Übersetzen: FR/EN → DE</p>
+        <p>Copywriting: FR/EN/DE</p>
 
-<!-- # Übersetzungsservice Nina Neuhoff -->
+        <p>Fachbereiche: Marketing & Kommunikation, Tourismus & Kultur, Technik, Bildung, Literatur</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Nina Neuhoff</p>
+        <p>
+            <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283" target="_blank">LinkedIn</a> |
+            <a href="https://www.proz.com/translator/4180778" target="_blank">ProZ</a> |
+            <a href="impressum">Impressum</a>
+        </p>
+    </footer>
+</body>
+</html>

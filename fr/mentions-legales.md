@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Mentions légales"
+layout: default
+title: Mentions légales
 ---
 
 **Conformément à la loi française (LCEN).**

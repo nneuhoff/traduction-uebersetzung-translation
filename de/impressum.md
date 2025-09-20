@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Impressum"
+layout: default
+title: Impressum
 ---
 
 **Angaben gemäß französischem Recht (LCEN).**

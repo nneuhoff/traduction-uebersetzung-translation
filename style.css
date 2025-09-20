@@ -1,47 +1,74 @@
+:root { --accent:#0a6cff; --muted:#666; --bg:#fff; }
+
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  color: #222;
+  background: #fafafa;
 }
 
-header {
-    background: #f2f2f2;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.site-header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 14px 20px;
+  background: var(--bg);
+  border-bottom: 1px solid #eee;
 }
 
-header ul {
-    list-style: none;
-    display: flex;
-    margin: 0;
-    padding: 0;
+.main-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 18px;
+  align-items: center;
 }
 
-header ul li {
-    margin-right: 20px;
+.main-nav a {
+  text-decoration: none;
+  color: #222;
+  font-weight: 600;
 }
 
-header ul li a {
-    text-decoration: none;
-    color: #333;
+.language-switch {
+  position: absolute;
+  right: 20px;
+  top: 12px;
+  font-weight: 700;
 }
 
-.language a {
-    margin-left: 10px;
-    text-decoration: none;
-    font-weight: bold;
+.language-switch a {
+  text-decoration: none;
+  margin-left: 8px;
+  color: var(--accent);
 }
 
 main {
-    text-align: center;
-    padding: 40px 20px;
+  max-width: 900px;
+  margin: 36px auto;
+  padding: 0 20px 60px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.02);
 }
 
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+}
+
+h1, h2 { color: #111; }
+
 footer {
-    background: #f2f2f2;
-    text-align: center;
-    padding: 10px;
+  margin-top: 30px;
+  padding: 18px 20px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 14px;
+  background: transparent;
 }
